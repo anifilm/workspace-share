@@ -1,0 +1,22 @@
+{
+  "name": "kotlin_js",
+  "version": "1.0.0-SNAPSHOT",
+  "main": "kotlin/kotlin_js.js",
+  "devDependencies": {
+    "webpack": "4.44.1",
+    "webpack-cli": "3.3.12",
+    "source-map-loader": "1.1.0",
+    "webpack-dev-server": "3.11.0",
+    "css-loader": "4.3.0",
+    "style-loader": "1.2.1",
+    "dukat": "0.5.8-rc.3"
+  },
+  "dependencies": {
+    "kotlin": "file:/home/anifilm/workspace/IdeaProjects/kotlin_js/build/js/packages_imported/kotlin/1.4.31",
+    "kotlin-test-js-runner": "file:/home/anifilm/workspace/IdeaProjects/kotlin_js/build/js/packages_imported/kotlin-test-js-runner/1.4.31",
+    "kotlin-test": "file:/home/anifilm/workspace/IdeaProjects/kotlin_js/build/js/packages_imported/kotlin-test/1.4.31"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}

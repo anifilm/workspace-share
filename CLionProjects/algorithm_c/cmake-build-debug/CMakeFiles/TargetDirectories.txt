@@ -1,0 +1,4 @@
+/home/anifilm/workspace/CLionProjects/algorithm_c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/anifilm/workspace/CLionProjects/algorithm_c/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/anifilm/workspace/CLionProjects/algorithm_c/cmake-build-debug/CMakeFiles/algorithm_c.dir
+/home/anifilm/workspace/CLionProjects/algorithm_c/cmake-build-debug/CMakeFiles/main.dir

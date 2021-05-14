@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/1nEWtdyxC+05xfzanRgL+xsBDRYyPAKCV0dxVvPQb7VPW1nyYFcTX/r0dwVCYkxioyOlvmCSdtulCide7fCfw==",
+  "success": true,
+  "projectFilePath": "/home/anifilm/workspace/aspnetcoreapp/aspnetcoreapp.csproj",
+  "expectedPackageFiles": [
+    "/home/anifilm/.nuget/packages/microsoft.net.compilers/3.9.0/microsoft.net.compilers.3.9.0.nupkg.sha512"
+  ],
+  "logs": []
+}

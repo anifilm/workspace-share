@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/algorithm_c.dir/chapter5/5-2-Q2.c.o -o algorithm_c 

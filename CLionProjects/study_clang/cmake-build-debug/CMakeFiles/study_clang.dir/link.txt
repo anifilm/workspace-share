@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/study_clang.dir/14-Q4.c.o -o study_clang 
